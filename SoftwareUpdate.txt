@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Update neural-magic.md (#7347)
