@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
