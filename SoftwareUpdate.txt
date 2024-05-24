@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add dota8.yaml and O tests (#7394)
